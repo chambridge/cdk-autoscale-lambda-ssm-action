@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest==6.2.5
+black
+flake8
+coverage
+tox
